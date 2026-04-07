@@ -1,1 +1,2 @@
 
+* Welcome to Stealth Cricket! I turned the classic game of Hand Cricket into a Python terminal game. You can play by yourself against the computer, or challenge your friends in Duo and Team modes. The best part? I coded it so your inputs are completely hidden—so you can play on the exact same keyboard without your opponent seeing if you're about to bowl a 6 or a 1. Grab a friend, pick your captain, and let's toss the coin!
