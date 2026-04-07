@@ -8,3 +8,9 @@
 * Fair-Play Engine: Uses hidden password inputs for bowling and batting so players can't screen-peek.
 
 * Dynamic Scoring & Logic: Tracks wickets, calculates target scores, and manages innings shifts automatically.
+
+
+
+# To clone your repository , you just need to use a simple Git command in your terminal.
+
+  * git clone https://github.com/aakulalokesh2007-tech/Digital-Hand-Cricket
