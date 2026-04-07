@@ -17,7 +17,8 @@
 
 **Gameplay (Hidden Inputs):**
 [solo Gameplay Screen](assets/solo.pdf)
-
+[duo Gameplay Screen](assets/duo.pdf)
+[Team Gameplay Screen](assets/team.pdf)
 
 
 
