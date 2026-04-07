@@ -10,6 +10,17 @@
 * Dynamic Scoring & Logic: Tracks wickets, calculates target scores, and manages innings shifts automatically.
 
 
+## 📸 Game Screenshots
+
+**Main Menu:**
+![Main Menu Screen](assets/main_menu.png)
+
+**Gameplay (Hidden Inputs):**
+![solo Gameplay Screen](assets/solo.pdf)
+
+
+
+
 
 # To clone your repository , you just need to use a simple Git command in your terminal.
 
