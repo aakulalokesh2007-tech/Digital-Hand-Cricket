@@ -16,7 +16,7 @@
 ![Main Menu Screen](assets/main_menu.png)
 
 **Gameplay (Hidden Inputs):**
-![solo Gameplay Screen](assets/solo.pdf)
+[solo Gameplay Screen](assets/solo.pdf)
 
 
 
